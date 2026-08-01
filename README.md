@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # 🐍 100 Days of Python Challenge
 
 Welcome to my **100 Days of Python** journey!
@@ -28,9 +26,9 @@ coding daily, and applying Python to cybersecurity.
             Manipulation, Input,          Generator        
             Variables, Variable Naming                     
 
-  Day 002   Coming Soon                   \-               ⏳
+  **Day 002   Coming Soon  **                 \-               ⏳
 
-  Day 003   Coming Soon                   \-               ⏳
+  **Day 003   Coming Soon  **                 \-               ⏳
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
