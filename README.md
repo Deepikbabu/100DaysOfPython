@@ -104,3 +104,26 @@ Complete **Day 002** and continue improving my Python fundamentals.
 -   GitHub: https://github.com/Deepikbabu
 -   Medium: https://medium.com/@Deepika-001
 
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Deepikbabu/100DaysOfPython/output/github-contribution-grid-snake-dark.svg">
+
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Deepikbabu/100DaysOfPython/output/github-contribution-grid-snake.svg">
+
+  <img 
+    alt="GitHub Contribution Snake Animation" 
+    src="https://raw.githubusercontent.com/Deepikbabu/100DaysOfPython/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</p>
+
+---
